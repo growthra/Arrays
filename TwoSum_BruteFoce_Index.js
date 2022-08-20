@@ -18,3 +18,6 @@ const result=TwoSum(nums,19);
 
 
 console.log(result);
+
+
+//Result [3,5]
